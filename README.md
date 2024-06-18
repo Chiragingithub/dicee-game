@@ -1,2 +1,2 @@
-# drum-kit
+# Dice-game
 first project
